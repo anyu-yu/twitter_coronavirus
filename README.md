@@ -2,6 +2,12 @@
 
 You will scan all geotagged tweets sent in 2020 to monitor for the spread of the coronavirus on social media.
 
+## Explanation of Results
+
+In general, the results that I received for tweet language tags and hashtags was that there was the most hashtags in the tweets that have the same language. It also seems to be the case that the location where hashtagged tweets came from are most abundant in countries where the hashtag's language is native (English seems to be more of an exception).
+
+## Instructions
+
 **Due date:** 
 Sunday, 11 April.
 
