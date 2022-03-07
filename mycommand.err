@@ -1,0 +1,86 @@
+nohup: ignoring input
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#코로나바이러스': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#코로나바이러스'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#コロナウイルス': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#コロナウイルス'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#冠状病毒': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#冠状病毒'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#covid2019': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#covid2019'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#covid-2019': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#covid-2019'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#covid19': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#covid19'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#covid-19': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#covid-19'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#coronavirus': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#coronavirus'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#corona': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#corona'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#virus': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#virus'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#flu': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#flu'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#sick': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#sick'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#cough': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#cough'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#sneeze': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#sneeze'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#hospital': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#hospital'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#nurse': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#nurse'"
+run_maps.sh: 12: run_maps.sh: cannot create viz/'#doctor': Directory nonexistent
+Traceback (most recent call last):
+  File "./src/visualize.py", line 26, in <module>
+    items = sorted(counts[args.key].items(), key=lambda item: (item[1],item[0]), reverse=True)
+KeyError: "'#doctor'"
